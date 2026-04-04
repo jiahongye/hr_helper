@@ -1,0 +1,5 @@
+{
+  "name": "HR 抽籤與分組工具",
+  "description": "提供 HR 方便的名單管理、獎品隨機抽籤（含動畫）以及自動分組視覺化功能。",
+  "requestFramePermissions": []
+}
